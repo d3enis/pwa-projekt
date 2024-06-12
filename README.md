@@ -1,5 +1,5 @@
 # Denis Maksimović projekt iz "Programiranja web aplikacija"
-Link do yt videa: [video](https://example.com)
+Link do yt videa: [video](https://youtu.be/Hp-1X_WGhys)
 
 # Računi
 Postoji admin račun koji može uređivati vijesti 
