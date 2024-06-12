@@ -104,7 +104,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['edit_post'])) {
             ?>
             <div class="news-grid">
             <?php
-$query =  "SELECT * FROM vijesti WHERE arhiva=0 AND kategorija='$kategorija' ORDER BY id DESC LIMIT 4";
+$query =  "SELECT * FROM vijesti WHERE arhiva=0 AND kategorija='$kategorija' ORDER BY id DESC ";
 $result = mysqli_query($dbc, $query);
  $i=0;
  while($row = mysqli_fetch_array($result)) {
