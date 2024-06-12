@@ -91,6 +91,7 @@ if ($result->num_rows > 0) {
     <h1>Newsweek</h1>
 </div>
 
+
 </header>
 <nav>
 <ul>
